@@ -14,16 +14,17 @@ A Java-based OOP project for managing sports subscriptions, including clients, m
 - Object-Oriented Programming (OOP)
 
 ## Project Structure
-- `Client.java`: Handles client data
-- `Matchs.java`: Match details and types
-- `Football.java` & `Basketball.java`: Specific sports implementation
-- `Commentator.java`: Match commentators
-- `Payment.java`: Payment handling
-- `Subscription.java`: Subscription logic
-- `Date.java`: Custom date management
-- `Payable.java`: Interface for payment-related classes
+- `Client.java`: Handles client data  
+- `Matchs.java`: Match details and types  
+- `Football.java` & `Basketball.java`: Specific sports implementation  
+- `Commentator.java`: Match commentators  
+- `Payment.java`: Payment handling  
+- `Subscription.java`: Subscription logic  
+- `Date.java`: Custom date management  
+- `Payable.java`: Interface for payment-related classes  
+- `Project.java`: Main class containing the program entry point  
 
 ## How to Run
 1. Open the project in any Java IDE (e.g., IntelliJ IDEA, NetBeans).
 2. Compile all `.java` files.
-3. Run `Main.java` or the main execution class (if available).
+3. Run `Project.java` as the main class.
